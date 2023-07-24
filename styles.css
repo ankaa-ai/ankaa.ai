@@ -5,7 +5,7 @@
   font-family: 'Inter', sans-serif; /* Use Inter Semi-Bold */
   font-weight: 600; /* Ensure Semi-Bold weight is applied */
   color: transparent;
-  background-image: -webkit-linear-gradient(0deg, #f44336 0%, #ff5722 20%, #ff9800 40%, #ffc107 60%, #ffeb3b 80%);
+  background-image: -webkit-linear-gradient(0deg, #f44336 0%, #ff5722 10%, #ff9800 20%, #ffc107 30%, #ffeb3b 40%);
   background-clip: text;
   -webkit-background-clip: text;
 }
