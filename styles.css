@@ -6,7 +6,7 @@
   font-weight: 600; /* Ensure Semi-Bold weight is applied */
   font-size: 72px; /* Adjust the font size as needed */
   color: transparent;
-  background-image: -webkit-linear-gradient(0deg, #f44336, #ff5722, #ff9800, #ffc107, #ffeb3b);
+  background-image: -webkit-linear-gradient(0deg, #f44336 0%, #ff5722 5%, #ff9800 10%, #ffc107 15%, #ffeb3b 20%);
   background-clip: text;
   -webkit-background-clip: text;
   background-size: 100% 100%; /* Ensure the gradient aligns with the text */
