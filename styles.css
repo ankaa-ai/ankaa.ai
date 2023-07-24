@@ -4,8 +4,10 @@
 .text-gradient {
   font-family: 'Inter', sans-serif; /* Use Inter Semi-Bold */
   font-weight: 600; /* Ensure Semi-Bold weight is applied */
+  font-size: 72px; /* Adjust the font size as needed */
   color: transparent;
-  background-image: -webkit-linear-gradient(0deg, #f44336 0%, #ff5722 10%, #ff9800 20%, #ffc107 30%, #ffeb3b 40%);
+  background-image: -webkit-linear-gradient(0deg, #f44336, #ff5722, #ff9800, #ffc107, #ffeb3b);
   background-clip: text;
   -webkit-background-clip: text;
+  background-size: 100% 100%; /* Ensure the gradient aligns with the text */
 }
