@@ -1,0 +1,10 @@
+/* styles.css */
+
+.text-gradient {
+  color: #f44336;
+  background-image: -webkit-linear-gradient(0deg, #f44336 0%, #ff5722 20%, #ff9800 40%, #ffc107 60%, #ffeb3b 80%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
+}
